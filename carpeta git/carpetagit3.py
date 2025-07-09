@@ -1,1 +1,0 @@
-print("NUEVISIMOOOO ya no tan nuevo")
